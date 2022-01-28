@@ -1,5 +1,5 @@
 #!/bin/bash
-
+     
 set -exo pipefail
 
 if ! python3 -m pip --version; then
